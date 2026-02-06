@@ -1,0 +1,31 @@
+{
+  "name": "swiggy-react",
+  "version": "1.0.0",
+  "description": "this is my first react project (by  AkshaySaini)",
+  "keywords": [],
+  "homepage": "https://github.com/ausnhujr/SwiggyReact#readme",
+  "bugs": {
+    "url": "https://github.com/ausnhujr/SwiggyReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ausnhujr/SwiggyReact.git"
+  },
+  "license": "ISC",
+  "author": "Anuj Singh Gurjar",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2  versions"
+  ]
+}

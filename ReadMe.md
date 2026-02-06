@@ -1,0 +1,16 @@
+# Parcel
+-Dev build
+-maneges local server 
+-HMR -hot module replacement 
+-uses fike watcher alogrithm - written in c++
+-caching for faster builds
+-image optimization
+-minification
+-compresses files
+-consistant hashing
+-tree shaking (dead code elimination)
+-code spiliting
+-Differential Bundling (for your app run smoothly on older browsers)
+-Error handling
+-Diagnostic (for better error suggestions)
+-Https
